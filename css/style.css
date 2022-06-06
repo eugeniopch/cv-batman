@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+body {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+div {
+    height: 50px;
+}
+
 h1, h2 {
     background-color: #c4c4c4;
     color: #005677;
@@ -6,4 +24,5 @@ h1, h2 {
 footer {
     background-color: #005677;
     color: white;
+    text-align: center;
 }
